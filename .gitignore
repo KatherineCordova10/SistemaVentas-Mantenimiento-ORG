@@ -1,3 +1,4 @@
+//Reglas SCM
 *.class
 *.log
 bin/
